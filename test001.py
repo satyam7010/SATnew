@@ -1,5 +1,5 @@
-print('From Git bash')
+print("From Git bash")
 a=1000
 b=3
-print('Multiplication',a*b)
-print('Done')
+print("Multiplication",a*b)
+print("Done")
